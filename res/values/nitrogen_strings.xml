@@ -366,4 +366,11 @@
     <string name="clock_date_format">Date format</string>
     <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Enter string</string>
+ 
+    <!-- System theme -->
+    <string name="accent_picker_dialog_title">Select an accent color</string>
+    <string name="theme_accent_picker_title">Accent color</string>
+    <string name="theme_accent_picker_summary">Select system theme accent color</string>
+    <string name="theme_accent_picker_default">Default</string>
+
 </resources>

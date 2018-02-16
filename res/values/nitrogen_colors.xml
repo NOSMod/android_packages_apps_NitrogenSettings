@@ -12,5 +12,11 @@
 -->
 
 <resources>
-        <color name="switchBarBackgroundActivatedColor">@*android:color/accent_device_default_light</color>
+    <color name="switchBarBackgroundActivatedColor">@*android:color/accent_device_default_light</color>
+
+    <!-- Accent picker -->
+    <color name="accent_picker_white_accent">@android:color/white</color>
+    <color name="accent_picker_dark_accent">@android:color/black</color>
+
 </resources>
+
